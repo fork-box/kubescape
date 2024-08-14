@@ -471,8 +471,6 @@ require (
 // Using the forked version of tablewriter
 replace github.com/olekukonko/tablewriter => github.com/kubescape/tablewriter v0.0.6-0.20231106230230-aac7d2659c94
 
-replace github.com/anchore/stereoscope => github.com/matthyx/stereoscope v0.0.0-20240426103125-b762a3538c32
-
 replace github.com/google/go-containerregistry => github.com/matthyx/go-containerregistry v0.0.0-20240227132928-63ceb71ae0b9
 
 replace github.com/docker/distribution v2.8.3+incompatible => github.com/docker/distribution v2.8.2+incompatible

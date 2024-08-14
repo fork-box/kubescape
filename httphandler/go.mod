@@ -107,7 +107,6 @@ require (
 	github.com/anchore/go-version v1.2.2-0.20210903204242-51efa5b487c4 // indirect
 	github.com/anchore/grype v0.77.1 // indirect
 	github.com/anchore/packageurl-go v0.1.1-0.20240312213626-055233e539b4 // indirect
-	github.com/anchore/stereoscope v0.0.3-0.20240423181235-8b297badafd5 // indirect
 	github.com/anchore/syft v1.3.0 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/anubhav06/copa-grype v1.0.3-alpha.1 // indirect

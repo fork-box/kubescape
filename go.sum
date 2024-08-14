@@ -249,6 +249,8 @@ github.com/anchore/grype v0.77.1 h1:zym7BqO+SqjEIzRkS8Y70VgsWdHqlvx8HkIKvy/wnmk=
 github.com/anchore/grype v0.77.1/go.mod h1:pEZIdft4CU+H7ejxZWRNDBaXOUmQSMHAUL3WdJ2O8sU=
 github.com/anchore/packageurl-go v0.1.1-0.20240312213626-055233e539b4 h1:SjemQ90fgflz39HG+VMkNfrpUVJpcFW6ZFA3TDXqzBM=
 github.com/anchore/packageurl-go v0.1.1-0.20240312213626-055233e539b4/go.mod h1:Blo6OgJNiYF41ufcgHKkbCKF2MDOMlrqhXv/ij6ocR4=
+github.com/anchore/stereoscope v0.0.3-0.20240423181235-8b297badafd5 h1:tXFLSxp66bG8tVnHGPmkblJltm6n/E52tqo1gMWnJ9U=
+github.com/anchore/stereoscope v0.0.3-0.20240423181235-8b297badafd5/go.mod h1:ckIamHiRMp8iBwWoTtE5Xkt9VQ5QC+6+O4VzwqyZr5Q=
 github.com/anchore/syft v1.3.0 h1:UxwhJoU2diapaY+x8omyE4D17nMprStt6kxaG5dL3XI=
 github.com/anchore/syft v1.3.0/go.mod h1:eYoL6572mvgoKOJAqNJmW4/GxfqzdqF77Dar3PsZnMw=
 github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883/go.mod h1:rCTlJbsFo29Kk6CurOXKm700vrz8f0KW0JNfpkRJY/8=
@@ -1046,8 +1048,6 @@ github.com/matthyx/go-containerregistry v0.0.0-20240227132928-63ceb71ae0b9 h1:qs
 github.com/matthyx/go-containerregistry v0.0.0-20240227132928-63ceb71ae0b9/go.mod h1:u0qB2l7mvtWVR5kNcbFIhFY1hLbf8eeGapA+vbFDCtQ=
 github.com/matthyx/go-gitlog v0.0.0-20231005131906-9ffabe3c5bcd h1:Fs7gIqboEWWiJ2OdaWxK0MHGL+8XskZRZdVjJhUnSqE=
 github.com/matthyx/go-gitlog v0.0.0-20231005131906-9ffabe3c5bcd/go.mod h1:kKOGX+aQer8+30ROQinaA9vO810BGhSVHz88IpbPt60=
-github.com/matthyx/stereoscope v0.0.0-20240426103125-b762a3538c32 h1:OrjXPlKHT8wQgZkcPSiD1K3cITY5SXaky2Xtk/GVQs8=
-github.com/matthyx/stereoscope v0.0.0-20240426103125-b762a3538c32/go.mod h1:9ZHiqHBU6nrYlkKTdWwq7xqiCr7f9B67V7bHLS2aQfw=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-colorable v0.1.4/go.mod h1:U0ppj6V5qS13XJ6of8GYAs25YV2eR4EVcfRqFIhoBtE=
 github.com/mattn/go-colorable v0.1.6/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
